@@ -1,6 +1,6 @@
 ## Duluth Public Works Map
 
-This is a civic data experiment in mapping public works information.
+This is a civic data experiment in mapping public works information. Check out [the demo](http://stormy-reaches-6967.herokuapp.com/). 
 
 ## Getting started
 
